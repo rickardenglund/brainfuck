@@ -1,5 +1,5 @@
 In memory fibonacci
->++[<+++++>-] loop
+>++[<+++++>-] loop variable
 
 + > + setup
 <<
